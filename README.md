@@ -1,7 +1,6 @@
 # :arrow_forward: Spark-Bot
-A Discord bot for a friend which allows execution of certain programs on the host. 
 
-<p align="center"><img height="150" width="auto" src=https://cdn.discordapp.com/avatars/268067853255704576/b655ded36a55ce6b2eee82c9133f6c66.png" /></p>
+<p align="center"><img height="150" width="auto" src=https://i.imgur.com/bGU0x4k.png" /></p>
 <p align="center"><b>A Discord bot for a friend which allows execution of certain programs on the host. </b></p>
 <hr>
 
