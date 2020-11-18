@@ -11,22 +11,20 @@ Once a user performs one of the commands, the executable / binary is launched on
 
 <hr>
 
-## :wrench: Installation
+## :wrench: Installation / Setup
 
-0. Terminal aufmachen und dorthin navigieren, wo man es downloaden möchte <br><br>
-1. Sichergehen, dass NodeJS installiert ist. Teste mit: <br>
+0. Open up your favourite terminal (and navigate somewhere you want to download the repository to) <br><br>
+1. Make sure you have NodeJS installed. Test by  entering <br>
 $ `node -v` <br>
-Wenn es eine Versionsnummer zurückgibt, ist NodeJS installiert.
- **Wenn nicht**, NodeJS <a href="https://nodejs.org/en/download/package-manager/">hier</a> downloaden. <br><br>
-2. Repository clonen und hinein navigieren. Wenn Git installiert ist: <br>
-$ `git clone https://github.com/pr0-dev/Discord-Bot.git && cd Discord-Bot` <br>
-Wenn nicht, <a href="https://github.com/pr0-dev/Discord-Bot/archive/master.zip">hier</a> herunterladen und die ZIP extrahieren. <br>
-Dann in den Ordner navigieren.<br><br>
-3. Dependencies installieren: <br>
+If this returns a version number, NodeJS is installed. **If not**, get NodeJS <a href="https://nodejs.org/en/download/package-manager/">here</a>. <br><br>
+2. Clone the repository and navigate to it. If you have Git installed, type <br>
+$ `git clone https://github.com/NLDev/Spark-Bot.git && cd Discord-Trivia-Cheat` <br>
+If not, download it <a href="https://github.com/NLDev/Spark-Bot/archive/master.zip">here</a> and extract the ZIP file.<br>
+Then navigate to the folder.<br><br>
+3. Install all dependencies by typing <br>
 $ `npm install`<br><br>
-4. Das Config-Template [config.template.json](https://github.com/NLDev/Spark-Bot/blob/master/config.template.json) kopieren und als `config.json` einfügen.<br><br>
-5. Die frisch kopierte Config datei ausfüllen. <br><br>
-6. Das Script starten <br>
+4. Now Configure the bot inside the [`config.json` file](https://github.com/NLDev/Spark-Bot/blob/master/config.template.json). <br><br>
+5. Finally: Start the bot by typing <br>
 $ `npm start` <br><br>
 
 <hr>
