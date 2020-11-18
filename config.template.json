@@ -1,0 +1,12 @@
+{
+    "bot_einstellungen": {
+        "bot_token": "",
+        "bot_prefix": "!",
+        "bot_status": "Warten auf Befehle."
+    },
+    "befehle": {
+        "cmd": "C:\\Windows\\System32\\cmd.exe",
+        "xyz": "C:\\X\\Y\\Z.exe",
+        "konsole": "/usr/bin/konsole"
+    }
+}
