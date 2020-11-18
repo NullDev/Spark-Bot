@@ -6,7 +6,7 @@
 
 ## :question: What does it do?
 
-Basically, paths to executable files can be specified in the `config.json`. 
+Basically, paths to executable files can be specified in the `config.json`. <br>
 Once a user performs one of the commands, the executable / binary is launched on the host system. 
 
 <hr>
