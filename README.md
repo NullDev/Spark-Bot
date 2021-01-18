@@ -18,12 +18,12 @@ Once a user performs one of the commands, the executable / binary is launched on
 $ `node -v` <br>
 If this returns a version number, NodeJS is installed. **If not**, get NodeJS <a href="https://nodejs.org/en/download/package-manager/">here</a>. <br><br>
 2. Clone the repository and navigate to it. If you have Git installed, type <br>
-$ `git clone https://github.com/NLDev/Spark-Bot.git && cd Spark-Bot` <br>
-If not, download it <a href="https://github.com/NLDev/Spark-Bot/archive/master.zip">here</a> and extract the ZIP file.<br>
+$ `git clone https://github.com/NullDev/Spark-Bot.git && cd Spark-Bot` <br>
+If not, download it <a href="https://github.com/NullDev/Spark-Bot/archive/master.zip">here</a> and extract the ZIP file.<br>
 Then navigate to the folder.<br><br>
 3. Install all dependencies by typing <br>
 $ `npm install`<br><br>
-4. Now Configure the bot inside the [`config.json` file](https://github.com/NLDev/Spark-Bot/blob/master/config.template.json). <br><br>
+4. Now Configure the bot inside the [`config.json` file](https://github.com/NullDev/Spark-Bot/blob/master/config.template.json). <br><br>
 5. Finally: Start the bot by typing <br>
 $ `npm start` <br><br>
 
